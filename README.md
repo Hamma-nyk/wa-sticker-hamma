@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/q1HJvWk/logo-4.png" alt="wa-sticker-hamma" width="500" />
 
-# _**WA-STICKER-HAMMA**_
-
 > Whatsapp Sticker Creator/Formatter!
 > 
 >
