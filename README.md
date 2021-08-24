@@ -4,7 +4,7 @@
 > Whatsapp Sticker Creator/Formatter!
 > 
 >
-</div><br/>
+</div>
 <br/>
 
 # Installation
