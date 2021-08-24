@@ -7,12 +7,10 @@
 </div>
 <br/>
 
-# Installation
+## Installation
 ```cmd
 > npm i wa-sticker-hamma
 ```
-
-# Usage
 
 ## Importing
 
