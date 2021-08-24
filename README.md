@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/sHwxdFm/nightcore.jpg" alt="WATCIKER" width="500" />
+<img src="https://i.ibb.co/q1HJvWk/logo-4.png" alt="wa-sticker-hamma" width="500" />
 
 # _**WA-STICKER-HAMMA**_
 
